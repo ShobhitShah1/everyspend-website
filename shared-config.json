@@ -1,6 +1,6 @@
 {
   "appName": "EverySpend",
   "appDescription": "An Android expense tracker with manual entry and optional on-device SMS import.",
-  "siteUrl": "https://everyspend.app",
+  "siteUrl": "https://everyspend.universallabs.space",
   "longDescription": "EverySpend is an Android app for tracking everyday expenses. Enter expenses manually or choose optional SMS import, which is processed on-device."
 }
